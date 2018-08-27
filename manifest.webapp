@@ -7,7 +7,7 @@
     }
   },
   "appType": "APP",
-  "name": "Interpretations",
+  "name": "interpretation-app",
   "version": "0.1.29",
   "description": "Interpretations app",
   "developer": {
@@ -16,5 +16,5 @@
   "icons": {
     "48": "icon.png"
   },
-  "manifest_generated_at": "Mon Aug 27 2018 15:41:58 GMT+0000 (UTC)"
+  "manifest_generated_at": "Mon Aug 27 2018 15:48:18 GMT+0000 (UTC)"
 }
