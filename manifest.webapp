@@ -8,7 +8,7 @@
   },
   "appType": "APP",
   "name": "interpretation-app",
-  "version": "0.1.29",
+  "version": "31.0.0",
   "description": "Interpretations app",
   "developer": {
     "name": "James Chang"
@@ -16,5 +16,5 @@
   "icons": {
     "48": "icon.png"
   },
-  "manifest_generated_at": "Fri Sep 28 2018 14:23:42 GMT+0000 (UTC)"
+  "manifest_generated_at": "Fri Sep 28 2018 16:40:38 GMT+0000 (UTC)"
 }
