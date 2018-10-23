@@ -10,8 +10,5 @@
   ],
   "author": "James Chang",
   "license": "BSD-3-Clause",
-  "directories": {
-    "test": "test"
-  },
   "homepage": "https://github.com/dhis2/interpretation-app#readme"
 }
